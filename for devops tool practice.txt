@@ -1,0 +1,3 @@
+this folder is created for devops practice
+on git hub 
+and git bash
